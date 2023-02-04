@@ -31,5 +31,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ❤ by Rocketseat :wave: [Participe de nossa comunidade!](https://discord.gg/rocketseat)
