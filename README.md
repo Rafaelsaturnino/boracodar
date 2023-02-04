@@ -1,32 +1,35 @@
-# boracodar
+<h1 align="center"> Chat </h1>
 
-<h1 align="center">Chat</h1>
+<p align="center">
+Projetando um chat e ligando pessoas a distância ❤! <br/>
+</p>
 
-<h4 align="center">Desafio Bora Codar 🚀</h4>
+<p align="center">
+   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+   <a href="#memo-licença">Licença</a>
+</p>
 
-<h1 align="center">
-    <img alt="Music player" src="/assets/Foto/Capa.png" />
-</h1>
+<br>
 
-# Music Player
+## 🚀 Tecnologias
 
-Um Chat desenvolvido em HTML, CSS.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
 ## 💻 Projeto
 
-- [Chat](https://chat-layout.vercel.app/)
+- [Visite o projeto online](https://Rafaelsaturnino.github.io/boracodar)
 
-## ✒️ Autor
+## :memo: Licença
 
-<a href="https://github.com/Rafaelsaturnino">
- <img src="https://avatars.githubusercontent.com/u/122838429?s=400&u=288079ff7c738e99eb8c51e8112ddd706c82561d&v=4" width="100px"; alt="profile photo"/>
- <br />
- <sub><b>Rafael Satrunino</b></sub>
-</a> 
-<a href="https://github.com/Rafaelsaturnino/boracodar.git"></a>
-<br />
+Esse projeto está sob a licença MIT.
 
-## Contact me!
+---
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-saturnino-b18898259/)
-[![Hotmail](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mrafa7953@gmail.com)
+Feito com ❤ by Rocketseat :wave: [Participe de nossa comunidade!](https://discord.gg/rocketseat)
