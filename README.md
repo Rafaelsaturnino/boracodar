@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://Rafaelsaturnino.github.io/boracodar)
+- [Visite o projeto ](http://127.0.0.1:5500/04/index.html?)
 
 ## :memo: Licença
 
