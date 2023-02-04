@@ -13,11 +13,12 @@
 body {
   background-color: #1a1924;
   font-size: 1.6rem;
-  color: white;
+  color: #e1e1e6;
 }
 
 body * {
   /* border: 1px solid red;*/
+  font-family: "Rpboto", sans-serif;
 }
 
 #app {
@@ -48,4 +49,25 @@ body * {
   height: 48px;
   object-fit: cover;
   border-radius: 50%;
+}
+
+#user-status .status {
+  display: flex;
+  align-items: baseline;
+  gap: o.4rem;
+  margin-top: 0.4rem;
+}
+
+#user-status .status::before {
+  content: "";
+  width: 0.8rem;
+  height: 0.8rem;
+  display: block;
+  background-color: #00b37e;
+  border-radius: 50%;
+}
+
+#user-status .status {
+  color: #00b37e;
+  font-size: 1.2rem;
 }
