@@ -28,4 +28,5 @@ body * {
   width: 100vw;
 
   display: grid;
+  grid-template-rows: max-content 1fr max-content;
 }
